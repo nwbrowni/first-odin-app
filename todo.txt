@@ -1,0 +1,7 @@
+thread safety
+    - actors
+        - Individual
+        - Holder
+        - Observer
+        - Manager
+        - Administrator
