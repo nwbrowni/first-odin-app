@@ -2,7 +2,7 @@ overview - https://odin-lang.org/docs/overview/
 
 threading - https://pkg.odin-lang.org/core/thread/#Pool
 demo - https://github.com/odin-lang/Odin/blob/master/examples/demo/demo.odin
-    -  see for mutex
+    -  see for mutex (implemented in this projects "synchronization.odin" lock-/unlock_cheap_mutex())
 
 The private attribute can be applied to an entity to prevent it from being exported from a package. You may also make
 an entity private to the file instead of the package. @(private) is equivalent to @(private="package").

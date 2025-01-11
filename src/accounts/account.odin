@@ -13,15 +13,6 @@ AccountFlag :: enum {
     Freeze,
 }
 
-// /*
-// Kinds of accounts.
-// */
-// AccountType :: enum {
-//     Checking,
-//     MoneyMarket,
-//     Savings,
-// }
-
 /*
 A structure representing an account.
 */

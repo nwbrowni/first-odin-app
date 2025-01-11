@@ -1,5 +1,8 @@
 package actors
 
+/*
+Structure containing identifying information regarding an individual.
+*/
 Individual :: struct {
     first: string,
     last: string,
